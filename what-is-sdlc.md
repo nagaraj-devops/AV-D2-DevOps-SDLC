@@ -30,4 +30,6 @@ high quality product.
 ### Testing Phase
 - The developed applications are tested which are deployed in QA environment by QA Team.
 ### Deployment Phase
-- This is the phase where the applications are deployed (Dev, QA, Pre-Prod, Staging, UAT or Prod) for application to test, review or use. 
+- This is the phase where the applications are deployed (Dev, QA, Pre-Prod, Staging, UAT or Prod) for application to test, review or use.
+
+# DevOps Engineer fasten these processes by automating and efficiency.
