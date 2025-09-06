@@ -5,3 +5,12 @@
   - Develop
   - Test
  
+high quality product.
+
+## Phases of SDLC
+- Planning
+- Defining
+- Designing
+- Building
+- Testing
+- Deployment
