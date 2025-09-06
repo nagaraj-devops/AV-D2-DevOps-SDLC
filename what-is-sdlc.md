@@ -1,6 +1,6 @@
 # What is SDLC?
 ## Software Development Life Cycle
-- It a standard process followed by various organisation
+- It a standard process followed by various organisation to 
   - Design
   - Develop
   - Test
